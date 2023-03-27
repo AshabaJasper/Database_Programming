@@ -12,7 +12,7 @@ CREATE TABLE mytable (
   PRIMARY KEY (id)
 );
  
-/*  This creates a table called "mytable" with 8 columns: 
+/*  This creates a table called "mytable" with 8 columns:  
     "id", "first_name", "last_name", "email", "phone", "address", "city", and "country".
     The "id" column is defined as an integer and set as the primary key.
     the "first_name" and "last_name" columns are defined as strings with a maximum length of 50 characters,
