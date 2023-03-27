@@ -11,7 +11,7 @@ CREATE TABLE mytable (
   country VARCHAR(50),
   PRIMARY KEY (id)
 );
-1 2
+1 2 3
 /*  This creates a table called "mytable" with 8 columns: 
     "id", "first_name", "last_name", "email", "phone", "address", "city", and "country".
     The "id" column is defined as an integer and set as the primary key.
