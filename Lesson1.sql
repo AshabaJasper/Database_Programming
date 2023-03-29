@@ -18,4 +18,4 @@ ALTER DATABASE myfirstDB READ ONLY = 1;
 -- This sets the myfirstDB database back to read-write mode, allowing changes again
 ALTER DATABASE myfirstDB READ ONLY = 0;
 
-12
+123
