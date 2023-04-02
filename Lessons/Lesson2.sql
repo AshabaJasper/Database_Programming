@@ -37,4 +37,4 @@ DROP TABLE mytable;
 -- This drops (deletes) the mydatabase database
 DROP DATABASE mydatabase;
 
-12345675
+123456754
