@@ -36,3 +36,5 @@ DROP TABLE mytable;
 
 -- This drops (deletes) the mydatabase database
 DROP DATABASE mydatabase;
+
+1
