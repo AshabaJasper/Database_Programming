@@ -10,7 +10,7 @@ USE mydatabase;
 CREATE TABLE mytable (
   id INT NOT NULL,
   name VARCHAR(50) NOT NULL,
-  age INT
+  age INT 
 );
 
 -- This inserts a new row into mytable with values for id, name, and age
