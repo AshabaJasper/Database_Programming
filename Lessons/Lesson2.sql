@@ -24,7 +24,7 @@ DELETE FROM mytable WHERE id = 1;
 
 -- This selects all rows from mytable and displays them in the console
 SELECT * FROM mytable;
- 
+  
 -- This selects only the rows from mytable where the age column is greater than 25 and displays them in the console
 SELECT * FROM mytable WHERE age > 25;
 
