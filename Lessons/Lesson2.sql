@@ -27,7 +27,7 @@ SELECT * FROM mytable;
  
 -- This selects only the rows from mytable where the age column is greater than 25 and displays them in the console
 SELECT * FROM mytable WHERE age > 25;
- 
+
 -- This selects the name and age columns from mytable and displays them in the console, ordered by age in descending order
 SELECT name, age FROM mytable ORDER BY age DESC;
 
