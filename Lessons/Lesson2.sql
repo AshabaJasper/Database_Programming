@@ -13,6 +13,7 @@ CREATE TABLE mytable (
   age INT 
 );   
 
+
 -- This inserts a new row into mytable with values for id, name, and age
 INSERT INTO mytable (id, name, age) VALUES (1, 'John', 30);
 
