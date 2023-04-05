@@ -12,6 +12,7 @@ USE myfirstDB;
 -- This drops (deletes) the myfirstDB database
 DROP DATABASE myfirstDB;
 
+
 -- This sets the myfirstDB database to read-only mode, preventing any changes
 ALTER DATABASE myfirstDB READ ONLY = 1;
 
