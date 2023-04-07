@@ -8,7 +8,7 @@ CREATE DATABASE myfirstDB;
 
 -- This selects the myfirstDB database for use
 USE myfirstDB;
-  
+   
 -- This drops (deletes) the myfirstDB database
 DROP DATABASE myfirstDB;
    
