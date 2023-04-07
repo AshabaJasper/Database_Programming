@@ -14,7 +14,7 @@ DROP DATABASE myfirstDB;
    
 -- This sets the myfirstDB database to read-only mode, preventing any changes
 ALTER DATABASE myfirstDB READ ONLY = 1;
-  
+   
 -- This sets the myfirstDB database back to read-write mode, allowing changes again
 ALTER DATABASE myfirstDB READ ONLY = 0;
 
