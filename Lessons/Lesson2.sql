@@ -6,7 +6,7 @@ CREATE DATABASE mydatabase;
 
 -- This selects the mydatabase database for use
 USE mydatabase;
-
+ 
 -- This creates a new table called mytable with three columns: id, name, and age
 CREATE TABLE mytable (
   id INT NOT NULL,
