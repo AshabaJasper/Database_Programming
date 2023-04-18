@@ -33,7 +33,7 @@ SELECT * FROM mytable WHERE age > 25;
 SELECT name, age FROM mytable ORDER BY age DESC;
 
 -- This drops (deletes) the mytable table from the database
-DROP TABLE mytable;
+DROP TABLE mytable; 
 
 -- This drops (deletes) the mydatabase database
 DROP DATABASE mydatabase;   
