@@ -36,5 +36,5 @@ SELECT name, age FROM mytable ORDER BY age DESC;
 DROP TABLE mytable;    
 
 -- This drops (deletes) the mydatabase database
-DROP DATABASE mydatabase_new;      
-    
+DROP DATABASE mydatabase_new;       
+     
