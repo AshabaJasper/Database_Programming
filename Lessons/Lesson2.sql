@@ -1,6 +1,6 @@
 -- BASIC COMMANDS
  
-
+1
 -- This creates a new database called mydatabase
 CREATE DATABASE mydatabase;
 
