@@ -22,7 +22,7 @@ UPDATE mytable SET age = 35 WHERE id = 1;
  
 -- This deletes the row with id 1 from mytable
 DELETE FROM mytable WHERE id = 1;
-
+ 
 -- This selects all rows from mytable and displays them in the console
 SELECT * FROM mytable;
     
