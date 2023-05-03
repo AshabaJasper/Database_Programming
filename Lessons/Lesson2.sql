@@ -13,10 +13,10 @@ CREATE TABLE mytable (
   name VARCHAR(50) NOT NULL,
   age INT 
 );    
-    
+     
 -- This inserts a new row into mytable with values for id, name, and age
 INSERT INTO mytable (id, name, age) VALUES (1, 'John', 30);
- 
+  
 -- This updates the age column for the row with id 1 in mytable
 UPDATE mytable SET age = 35 WHERE id = 1;
  
