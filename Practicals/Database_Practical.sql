@@ -1,9 +1,9 @@
 -- create database
 CREATE DATABASE ucu_results;
- 
+  
 -- switch to the new database
 USE ucu_results;
-
+ 
 -- create students table
 CREATE TABLE students (
   id INT NOT NULL AUTO_INCREMENT, -- unique identifier for each student
