@@ -2,7 +2,7 @@
  --
 -- This creates a new database called mydatabase
 CREATE DATABASE mydatabase;
--- 
+
 -- This selects the mydatabase database for use
 USE mydatabase;
  
