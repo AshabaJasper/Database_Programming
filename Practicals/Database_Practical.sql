@@ -1,4 +1,4 @@
--- create database
+--- create database
 CREATE DATABASE ucu_results;
 -- switch to the new database
 USE ucu_results;
