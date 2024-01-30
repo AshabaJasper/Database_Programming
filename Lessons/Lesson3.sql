@@ -1,5 +1,5 @@
 -- CREATING TABLES
---
+
 CREATE TABLE mytable (
   id INT NOT NULL,
   first_name VARCHAR(50) NOT NULL,
