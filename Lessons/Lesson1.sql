@@ -5,7 +5,7 @@
 
 -- This creates a new database called myfirstDB
 CREATE DATABASE myfirstDB;
-
+--
 -- This selects the myfirstDB database for use
 USE myfirstDB;
    
