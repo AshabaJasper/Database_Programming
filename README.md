@@ -1,4 +1,4 @@
-Full Update on Saturday
+Full Update on Saturday 20th
 ## Database Programming with MySQL
 Welcome to the Database Programming with MySQL repository! This repository is designed to help you learn the basics of database programming with MySQL, a popular open-source relational database management system.
 
