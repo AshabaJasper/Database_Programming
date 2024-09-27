@@ -1,4 +1,4 @@
-
+--
 --Revide my coding life for realll
 -- double dashes (--) are used to indicate comments in SQL code. The comments are not actually executed by the SQL engine,
 -- but can be used to explain what the code does or provide other useful information.
