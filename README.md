@@ -4,7 +4,7 @@ Welcome to the Database Programming with MySQL repository! This repository is de
       
 ### What is MySQL?
 MySQL is a powerful tool for managing and organizing data. It is a relational database management system that allows you to store, organize, and retrieve data quickly and efficiently. MySQL is used by many companies and organizations around the world, and is particularly popular for web applications, data warehousing, and e-commerce.
-
+ 
 ### Downloading MySQL
 
 You can download MySQL from the official website at https://dev.mysql.com/downloads/. Select the appropriate version for your operating system, and follow the installation instructions provided on the website.
