@@ -11,7 +11,7 @@ You can download MySQL from the official website at https://dev.mysql.com/downlo
 
 ### What Will You Learn in This Repository?
 In this repository, you'll learn the basics of database programming with MySQL. We'll cover topics such as:
-
+ 
 ### Installing and configuring MySQL
 Creating databases and tables
 Inserting and retrieving data
